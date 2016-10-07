@@ -10,4 +10,6 @@
     print "Hello world"
     """
 3. foo qux
+    ```print "Hello world"
+    ```
 4. qux bar
