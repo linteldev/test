@@ -15,3 +15,6 @@
 4. qux bar
 ```print hello world
 ```
+5. adafd dafda
+<pre><code>print hello world</code></pre>
+
